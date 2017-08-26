@@ -1,7 +1,7 @@
 import tkinter
 
 def print_hello(event):
-    print('5')
+    print('6')
 
 root = tkinter.Tk()
 
